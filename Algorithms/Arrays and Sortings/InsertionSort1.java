@@ -1,5 +1,5 @@
 /**
- * @(#)InsertionSort1.java
+ * @(#)Solution.java
  *
  *
  * @author Gurpreet Singh
@@ -8,7 +8,7 @@
 
 import java.util.*;
 
-public class InsertionSort1 
+public class InsertionSort1
 {
 	static void insertionSort(int[] ar) 
 	{
